@@ -27,7 +27,7 @@ I'm Esmaeil Asadi (  اســـماعـیـل اسـدی )
 
 </div>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Qkst7ajUcVbrYxTDOR/giphy.gif" width="320" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Qkst7ajUcVbrYxTDOR/giphy.gif" width="500" height="320" />
 
 
 <div align="center" >
