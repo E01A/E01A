@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### ## :rainbow: Who am I:question: 
+### Who am I:question: 
 
 I'm Esmaeil Asadi (  اســـماعـیـل اسـدی )
 
