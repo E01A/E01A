@@ -26,6 +26,11 @@ I'm Esmaeil Asadi (  اســـماعـیـل اسـدی )
 
 </div>
 
+<p align="center"> 
+  Visitor No.<br>
+  <img src="https://profile-counter.glitch.me/anupamhaldkar/count.svg" />
+</p>
+
 </p>
 
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
