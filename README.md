@@ -2,8 +2,11 @@
   <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
 </p>
 
-<img align="center" alt="GIF"  src="https://media.giphy.com/media/wVnYbCkmYr7qhImJqJ/giphy.gif" >
- 
+<p align="center">
+  <img src="https://media.giphy.com/media/wVnYbCkmYr7qhImJqJ/giphy.gif" >
+</p>
+
+
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <div align="center">
