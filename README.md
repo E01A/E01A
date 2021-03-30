@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
+  <img src="https://media.giphy.com/media/GaoO5tslrx4vtoGTeB/giphy.gif">
 </p>
 
 <p align="center">
