@@ -2,7 +2,7 @@
   <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
 </p>
  
-## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img src="https://media.giphy.com/media/wVnYbCkmYr7qhImJqJ/giphy.gif">
 
 <div align="center">
 
