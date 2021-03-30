@@ -4,11 +4,6 @@
  
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<p align="center"> 
-  Visitor No.<br>
-  <img src="https://profile-counter.glitch.me/E01A/count.svg" />
-</p>
-
 <div align="center">
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/w4D0ezEZJGgYuUCylI/giphy.gif" />
@@ -32,7 +27,10 @@ I'm Esmaeil Asadi (  اســـماعـیـل اسـدی )
 
 </div>
 
-
+<p align="center"> 
+  Visitor No.<br>
+  <img src="https://profile-counter.glitch.me/E01A/count.svg" />
+</p>
 
 </p>
 
