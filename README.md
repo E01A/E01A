@@ -2,20 +2,9 @@
   <img src="https://media.giphy.com/media/GaoO5tslrx4vtoGTeB/giphy.gif">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/wVnYbCkmYr7qhImJqJ/giphy.gif" >
-</p>
-
-
 <div align="center">
 
 ##  Hey Profile Visitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
-</div>
-
-<div align="center">
-
-<img align="center" alt="GIF" src="https://media.giphy.com/media/w4D0ezEZJGgYuUCylI/giphy.gif" />
 
 </div>
 
