@@ -1,7 +1,13 @@
 <p align="center">
+  <img src=https://github.com/e01a/e01a/blob/main/img/linux.svg width="48" height="48"/>
+    <img src=https://github.com/e01a/e01a/blob/main/img/python.svg width="48" height="48"/>
+      <img src=https://github.com/e01a/e01a/blob/main/img/android.png width="48" height="48"/>
+
+</p>
+<p align="center">
+ 
   <img src="https://media.giphy.com/media/GaoO5tslrx4vtoGTeB/giphy.gif">
 </p>
-
 <div align="center">
 
 ##  Hey Profile Visitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
@@ -14,8 +20,20 @@
 
 I'm ( اسـمـاعـیـل اسـدی )
 
-
-
+<h2 align="center">📱 My Socials 📱</h2>
+<div align=center>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.instagram.com/esmaeileasadi/">
+        <img src=https://github.com/e01a/e01a/blob/main/img/insta.png width="48" height="48" alt="Golang" />
+      </a>
+      <br>Instagram
+    </td>
+  </tr>
+</table>
+</div>
+----------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
 
