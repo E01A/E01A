@@ -20,20 +20,6 @@
 
 I'm ( اسـمـاعـیـل اسـدی )
 
-<h2 align="center">📱 My Socials 📱</h2>
-<div align=center>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.instagram.com/esmaeileasadi/">
-        <img src=https://github.com/e01a/e01a/blob/main/img/insta.png width="48" height="48" alt="Golang" />
-      </a>
-      <br>Instagram
-    </td>
-  </tr>
-</table>
-</div>
-
 </div>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Qkst7ajUcVbrYxTDOR/giphy.gif" width="500" height="300" />
