@@ -1,40 +1,47 @@
+<h1 align="center">سلام! من اسماعیل اسدی هستم 👋</h1>
+
 <p align="center">
-  <img src=https://github.com/e01a/e01a/blob/main/img/linux.svg width="48" height="48"/>
-    <img src=https://github.com/e01a/e01a/blob/main/img/python.svg width="48" height="48"/>
-      <img src=https://github.com/e01a/e01a/blob/main/img/android.png width="48" height="48"/>
-
+  ☕ <b>&lt;CODE/&gt; IS GOD</b> ☕
 </p>
+
 <p align="center">
- 
-  <img src="https://media.giphy.com/media/GaoO5tslrx4vtoGTeB/giphy.gif">
+  <img src="https://media.giphy.com/media/Qkst7ajUcVbrYxTDOR/giphy.gif" width="600"/>
 </p>
-<div align="center">
 
-##  Hey Profile Visitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
-</div>
-
-<div align="center">
-
-### Who am I: 
-
-I'm ( Esmaeil Asadi <=> اسـمـاعـیـل اسـدی )
-
-</div>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Qkst7ajUcVbrYxTDOR/giphy.gif" width="500" height="300" />
-
-
-<div align="center" >
-
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-</div>
-
-<p align="center"> 
-  :eyes: Visitor No. :eyes:<br>
-  <img src="https://profile-counter.glitch.me/E01A/count.svg" />
+<p align="center">
+  <img src="https://github.com/e01a/e01a/blob/main/ezgif.com-resize.gif" width="300"/>
 </p>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" >
-<br>
+
+---
+
+## 🧠 درباره من
+
+- 👨‍💻 توسعه‌دهنده‌ی ابزارهای اندروید، شبکه و امنیت
+- 🌍 زبان‌های مورد علاقه: Kotlin, Python, Bash
+
+---
+
+## 🔨 پروژه‌های برجسته
+
+- 🎤 [Advanced-Mic-Camera-Monitor](https://github.com/e01a/Advanced-Mic-Camera-Monitor)
+- 📥 [YouTube-Downloader](https://github.com/e01a/YouTube-Downloader)
+- 🕵️ [Hiden-Text-Detector](https://github.com/e01a/Hiden-Text-Detector)
+- 🧹 [AllR3m0ver](https://github.com/e01a/AllR3m0ver)
+- 🕒 [TimeZone](https://github.com/e01a/TimeZone)
+- 🌐 [NetFix](https://github.com/e01a/NetFix)
+
+---
+
+## 📊 آمار گیت‌هاب من
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=e01a&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e01a&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+---
+
+<p align="center">
+  بازدید کننده شماره:  
+  <img src="https://profile-counter.glitch.me/e01a/count.svg" />
 </p>
