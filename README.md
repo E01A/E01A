@@ -1,4 +1,16 @@
-<h1 align="center">سلام! من اسماعیل اسدی هستم 👋</h1>
+<p align="center">
+  <img src=https://github.com/e01a/e01a/blob/main/img/linux.svg width="48" height="48"/>
+    <img src=https://github.com/e01a/e01a/blob/main/img/python.svg width="48" height="48"/>
+      <img src=https://github.com/e01a/e01a/blob/main/img/android.png width="48" height="48"/>
+
+
+<div align="center">
+
+### Who am I: 
+
+I'm ( Esmaeil Asadi <=> اسـمـاعـیـل اسـدی )
+
+</div>
 
 <p align="center">
   ☕ <b>&lt;CODE/&gt; IS GOD</b> ☕
@@ -13,26 +25,6 @@
 </p>
 
 ---
-
-## 🧠 درباره من
-
-- 👨‍💻 توسعه‌دهنده‌ی ابزارهای اندروید، شبکه و امنیت
-- 🌍 زبان‌های مورد علاقه: Kotlin, Python, Bash
-
----
-
-## 🔨 پروژه‌های برجسته
-
-- 🎤 [Advanced-Mic-Camera-Monitor](https://github.com/e01a/Advanced-Mic-Camera-Monitor)
-- 📥 [YouTube-Downloader](https://github.com/e01a/YouTube-Downloader)
-- 🕵️ [Hiden-Text-Detector](https://github.com/e01a/Hiden-Text-Detector)
-- 🧹 [AllR3m0ver](https://github.com/e01a/AllR3m0ver)
-- 🕒 [TimeZone](https://github.com/e01a/TimeZone)
-- 🌐 [NetFix](https://github.com/e01a/NetFix)
-
----
-
-## 📊 آمار گیت‌هاب من
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=e01a&show_icons=true&theme=tokyonight" alt="stats" />
