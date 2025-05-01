@@ -1,12 +1,4 @@
-<div align="center">
-I'm ( Esmaeil Asadi <=> اسـمـاعـیـل اسـدی )
 
-## 📫 Contact me
-  
-[![](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram "Telegram")](https://t.me/E0_1A)
-
-
-</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e01a&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
@@ -20,3 +12,10 @@ I'm ( Esmaeil Asadi <=> اسـمـاعـیـل اسـدی )
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" >
 <br>
 </p>
+<div align="center">
+## I'm ( Esmaeil Asadi <=> اسـمـاعـیـل اسـدی )    📫 Contact me
+  
+[![](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram "Telegram")](https://t.me/E0_1A)
+
+
+</div>
