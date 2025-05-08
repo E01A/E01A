@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=e01a&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=e01a&layout=compact&hide=ObjectiveC,Objective-C,Text,Gitignore%20File,Properties">
+  </p>
 <p align="center"> 
   :eyes: Visitor No. :eyes:<br>
   <img src="https://profile-counter.glitch.me/E01A/count.svg" />
