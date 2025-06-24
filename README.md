@@ -25,10 +25,6 @@
     </picture>
   </a>
 </div>
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Err0r&theme=tokyo-night" alt="Activity Graph" />
-</p>
 <!-- Geographical Activity -->
 <div align="center">
   <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?activity=stars&role=stars&owner_id=19436819&period=past_12_months" target="_blank" style="display: block;">
@@ -38,7 +34,10 @@
     </picture>
   </a>
 </div>
-
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Err0r&theme=tokyo-night" alt="Activity Graph" />
+</p>
 <!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Null-Err0r&theme=tokyonight" alt="GitHub Streak" />
