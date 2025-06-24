@@ -1,57 +1,79 @@
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Err0r&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Err0r&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-<div align=center>
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=19436819&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19436819&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @Null-Err0r" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19436819&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
+
+<!-- Contribution Time Distribution -->
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=19436819&period=all_times" target="_blank" style="display: block;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19436819&period=all_times&image_size=auto&color_scheme=dark" width="700" height="auto">
+      <img alt="Contribution Time Distribution" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19436819&period=all_times&image_size=auto&color_scheme=light" width="700" height="auto">
+    </picture>
+  </a>
 </div>
-<div align=center>
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=19436819" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=19436819&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Null-Err0r" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=19436819&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+
+<!-- Dashboard Stats -->
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=19436819" target="_blank" style="display: block;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=19436819&image_size=auto&color_scheme=dark" width="700" height="auto">
+      <img alt="Dashboard Stats" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=19436819&image_size=auto&color_scheme=light" width="700" height="auto">
+    </picture>
+  </a>
 </div>
+
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Null-Err0r&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Null-Err0r&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Err0r&theme=tokyo-night" alt="Activity Graph" />
 </p>
-<div align=center>
-<a href="https://next.ossinsight.io/widgets/official/compose-org-overview-stars?owner_id=19436819&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-overview-stars/thumbnail.png?owner_id=19436819&period=past_12_months&image_size=2x6&color_scheme=dark" width="561" height="auto">
-    <img alt="Overview of Stars earned of @Null-Err0r" src="https://next.ossinsight.io/widgets/official/compose-org-overview-stars/thumbnail.png?owner_id=19436819&period=past_12_months&image_size=2x6&color_scheme=light" width="561" height="auto">
-  </picture>
-</a>
-<br>
+
+<!-- Stars Overview -->
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-org-overview-stars?owner_id=19436819&period=past_12_months" target="_blank" style="display: block;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-overview-stars/thumbnail.png?owner_id=19436819&period=past_12_months&image_size=2x6&color_scheme=dark" width="700" height="auto">
+      <img alt="Stars Overview" src="https://next.ossinsight.io/widgets/official/compose-org-overview-stars/thumbnail.png?owner_id=19436819&period=past_12_months&image_size=2x6&color_scheme=light" width="700" height="auto">
+    </picture>
+  </a>
 </div>
-<div align=center>
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?activity=stars&role=stars&owner_id=19436819&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=stars&role=stars&owner_id=19436819&period=past_12_months&image_size=4x7&color_scheme=dark" width="657" height="auto">
-    <img alt="Geographical Distribution of @Null-Err0r" src="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=stars&role=stars&owner_id=19436819&period=past_12_months&image_size=4x7&color_scheme=light" width="657" height="auto">
-  </picture>
-</a>
+
+<!-- Geographical Activity -->
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?activity=stars&role=stars&owner_id=19436819&period=past_12_months" target="_blank" style="display: block;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=stars&role=stars&owner_id=19436819&period=past_12_months&image_size=4x7&color_scheme=dark" width="700" height="auto">
+      <img alt="Geographical Distribution" src="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=stars&role=stars&owner_id=19436819&period=past_12_months&image_size=4x7&color_scheme=light" width="700" height="auto">
+    </picture>
+  </a>
 </div>
+
+<!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Null-Err0r&theme=tokyonight" alt="GitHub Streak" />
 </p>
-<p align="center"> 
+
+<!-- Visitor Counter -->
+<p align="center">
   :eyes: Visitor No. :eyes:<br>
-  <img src="https://profile-counter.glitch.me/Null-Err0r/count.svg" />
+  <img src="https://profile-counter.glitch.me/Null-Err0r/count.svg" alt="Visitor Counter" />
 </p>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" >
-<br>
+
+<!-- Bottom SVG Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Banner" />
 </p>
+
+<!-- Personal Info and Telegram -->
 <div align="center">
- I'm ( Esmaeil Asadi <=> اسـمـاعـیـل اسـدی )  
-   
-[![](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram "Telegram")](https://t.me/E0x1A)
+  I'm ( Esmaeil Asadi <=> اسـمـاعـیـل اسـدی )
+  <br><br>
+  <a href="https://t.me/E0x1A" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" />
+  </a>
 </div>
