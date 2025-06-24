@@ -2,7 +2,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Err0r&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Null-Err0r&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 <!-- Contribution Time Distribution -->
 <div align="center">
   <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=19436819&period=all_times" target="_blank" style="display: block;">
@@ -22,27 +25,10 @@
     </picture>
   </a>
 </div>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Null-Err0r&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Err0r&theme=tokyo-night" alt="Activity Graph" />
 </p>
-
-<!-- Stars Overview -->
-<div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-org-overview-stars?owner_id=19436819&period=past_12_months" target="_blank" style="display: block;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-overview-stars/thumbnail.png?owner_id=19436819&period=past_12_months&image_size=2x6&color_scheme=dark" width="700" height="auto">
-      <img alt="Stars Overview" src="https://next.ossinsight.io/widgets/official/compose-org-overview-stars/thumbnail.png?owner_id=19436819&period=past_12_months&image_size=2x6&color_scheme=light" width="700" height="auto">
-    </picture>
-  </a>
-</div>
-
 <!-- Geographical Activity -->
 <div align="center">
   <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?activity=stars&role=stars&owner_id=19436819&period=past_12_months" target="_blank" style="display: block;">
