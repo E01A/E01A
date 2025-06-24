@@ -1,8 +1,28 @@
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Err0r&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
-
+<div align=center>
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=19436819&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19436819&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @Null-Err0r" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19436819&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+</div>
+<div align=center>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=19436819" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=19436819&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Null-Err0r" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=19436819&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Null-Err0r&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Err0r&theme=tokyo-night" alt="Activity Graph" />
+</p>
 <div align=center>
 <a href="https://next.ossinsight.io/widgets/official/compose-org-overview-stars?owner_id=19436819&period=past_12_months" target="_blank" style="display: block" align="center">
   <picture>
@@ -13,14 +33,6 @@
 <br>
 </div>
 <div align=center>
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=19436819&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19436819&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @Null-Err0r" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19436819&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-</div>
-<div align=center>
 <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?activity=stars&role=stars&owner_id=19436819&period=past_12_months" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=stars&role=stars&owner_id=19436819&period=past_12_months&image_size=4x7&color_scheme=dark" width="657" height="auto">
@@ -28,25 +40,6 @@
   </picture>
 </a>
 </div>
-
-<div align=center>
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=19436819" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=19436819&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Null-Err0r" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=19436819&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-</div>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Null-Err0r&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Err0r&theme=tokyo-night" alt="Activity Graph" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Null-Err0r&theme=tokyonight" alt="GitHub Streak" />
 </p>
