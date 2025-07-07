@@ -36,7 +36,7 @@
 </div>
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Err0r&theme=dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Err0r&theme=tokyo-night" alt="Activity Graph" />
 </p>
 <!-- GitHub Streak -->
 <p align="center">
