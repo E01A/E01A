@@ -4,7 +4,7 @@
 </p>
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Null-Err0r&rank_icon=github&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Null-Err0r\&rank_icon=github&theme=dark" alt="GitHub Stats" />
 </p>
 <!-- Contribution Time Distribution -->
 <div align="center">
