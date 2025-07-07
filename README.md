@@ -11,7 +11,7 @@
   <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=19436819&period=all_times" target="_blank" style="display: block;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19436819&period=all_times&image_size=auto&color_scheme=dark" width="700" height="auto">
-      <img alt="Contribution Time Distribution" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19436819&period=all_times&image_size=auto&color_scheme=light" width="700" height="auto">
+      <img alt="Contribution Time Distribution" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19436819&period=all_times&image_size=auto&color_scheme=dark" width="700" height="auto">
     </picture>
   </a>
 </div>
@@ -21,7 +21,7 @@
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=19436819" target="_blank" style="display: block;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=19436819&image_size=auto&color_scheme=dark" width="700" height="auto">
-      <img alt="Dashboard Stats" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=19436819&image_size=auto&color_scheme=light" width="700" height="auto">
+      <img alt="Dashboard Stats" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=19436819&image_size=auto&color_scheme=dark" width="700" height="auto">
     </picture>
   </a>
 </div>
@@ -30,13 +30,13 @@
   <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?activity=stars&role=stars&owner_id=19436819&period=past_12_months" target="_blank" style="display: block;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=stars&role=stars&owner_id=19436819&period=past_12_months&image_size=4x7&color_scheme=dark" width="700" height="auto">
-      <img alt="Geographical Distribution" src="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=stars&role=stars&owner_id=19436819&period=past_12_months&image_size=4x7&color_scheme=light" width="700" height="auto">
+      <img alt="Geographical Distribution" src="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=stars&role=stars&owner_id=19436819&period=past_12_months&image_size=4x7&color_scheme=dark" width="700" height="auto">
     </picture>
   </a>
 </div>
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Err0r&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Err0r&theme=dark" alt="Activity Graph" />
 </p>
 <!-- GitHub Streak -->
 <p align="center">
