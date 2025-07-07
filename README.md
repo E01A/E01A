@@ -46,7 +46,7 @@
 <!-- Visitor Counter -->
 <p align="center">
   :eyes: Visitor No. :eyes:<br>
-  <img src="https://profile-counter.glitch.me/Null-Err0r/count.svg" alt="Visitor Counter" />
+  <img src="https://ghvc.kabelkultur.se/?username=null-err0r" alt="Visitor Counter" />
 </p>
 
 <!-- Bottom SVG Banner -->
