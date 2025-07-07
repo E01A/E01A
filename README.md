@@ -1,10 +1,10 @@
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Err0r&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Err0r&layout=pie&theme=dark" alt="Top Languages" />
 </p>
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Null-Err0r&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Null-Err0r&rank_icon=github&theme=dark" alt="GitHub Stats" />
 </p>
 <!-- Contribution Time Distribution -->
 <div align="center">
@@ -40,7 +40,7 @@
 </p>
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Null-Err0r&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Null-Err0r&theme=dark" alt="GitHub Streak" />
 </p>
 
 <!-- Visitor Counter -->
