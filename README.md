@@ -58,7 +58,7 @@
 <div align="center">
   I'm ( Esmaeil Asadi <=> اسـمـاعـیـل اسـدی )
   <br><br>
-  <a href="https://t.me/E0x1A" target="_blank">
+  <a href="https://t.me/M4st3r_SAM" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" />
   </a>
 </div>
