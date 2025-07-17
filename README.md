@@ -16,11 +16,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=null-err0r&theme=gruvbox&utcOffset=8" />
 </p>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=null-err0r&rank_icon=github&theme=dark" alt="GitHub Stats" />
-</div>
-
 <div align="center">
   <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=19436819&period=all_times" target="_blank" style="display: block;">
     <picture>
