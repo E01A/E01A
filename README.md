@@ -15,7 +15,13 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=null-err0r&theme=gruvbox" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=null-err0r&theme=gruvbox&utcOffset=8" />
 </p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=null-err0r&theme=gruvbox" alt="GitHub Streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=null-err0r&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
+</div>
 <div align="center">
   <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=19436819&period=all_times" target="_blank" style="display: block;">
     <picture>
@@ -46,15 +52,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=null-err0r&theme=gruvbox" alt="Activity Graph" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=null-err0r&theme=gruvbox" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=null-err0r&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
-</div>
-
 <div align="center">
   :eyes: Visitor No. :eyes:<br>
   <img src="https://ghvc.kabelkultur.se/?username=null-err0r" alt="Visitor Counter" />
