@@ -51,9 +51,10 @@
 </div>
 
 <div align="center">
-  I'm ( Esmaeil Asadi <=> اسـمـاعـیـل اسـدی )
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+( Esmaeil Asadi <=> اسـمـاعـیـل اسـدی )" alt="Typing SVG" />
   <br><br>
   <a href="https://t.me/NullErr0r" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" />
   </a>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
 </div>
