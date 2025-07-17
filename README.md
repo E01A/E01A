@@ -57,19 +57,13 @@
 </div>
 
 <div align="center">
-  :eyes: Visitor No. :eyes:<br>
-  <img src="https://ghvc.kabelkultur.se/?username=null-err0r" alt="Visitor Counter" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=null-err0r&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
 </div>
 
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Banner" />
+  :eyes: Visitor No. :eyes:<br>
+  <img src="https://ghvc.kabelkultur.se/?username=null-err0r" alt="Visitor Counter" />
 </div>
-
 <div align="center">
   <br><br>
   <a href="https://t.me/NullErr0r" target="_blank">
@@ -78,4 +72,7 @@
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Banner" />
 </div>
