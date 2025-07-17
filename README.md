@@ -50,6 +50,24 @@
   <img src="https://ghvc.kabelkultur.se/?username=null-err0r" alt="Visitor Counter" />
 </div>
 
+
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/null-err0r?label=Followers&style=for-the-badge&color=blue)](https://github.com/null-err0r)
+  [![GitHub stars](https://img.shields.io/github/stars/null-err0r?label=Stars&style=for-the-badge&color=yellow)](https://github.com/null-err0r
+  [![Profile views](https://komarev.com/ghpvc/?username=null-err0r&color=brightgreen&style=for-the-badge&label=Profile+Views)](https://github.com/null-err0r)
+  
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=null-err0r&theme=github_dark" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=null-err0r&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
+</div>
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Banner" />
 </div>
