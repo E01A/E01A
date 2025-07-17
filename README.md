@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xNullErr0r&layout=pie&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-err0r&layout=pie&theme=dark" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xNullErr0r&rank_icon=github&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=null-err0r&rank_icon=github&theme=dark" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -34,16 +34,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xNullErr0r&theme=high-contrast" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=null-err0r&theme=high-contrast" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xNullErr0r&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=null-err0r&theme=dark" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   :eyes: Visitor No. :eyes:<br>
-  <img src="https://ghvc.kabelkultur.se/?username=xNullErr0r" alt="Visitor Counter" />
+  <img src="https://ghvc.kabelkultur.se/?username=null-err0r" alt="Visitor Counter" />
 </div>
 
 <div align="center">
