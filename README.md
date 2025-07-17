@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+( Esmaeil Asadi <=> اسـمـاعـیـل اسـدی )"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-err0r&layout=pie&theme=dark" alt="Top Languages" />
 </div>
 
@@ -48,10 +52,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Banner" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+( Esmaeil Asadi <=> اسـمـاعـیـل اسـدی )"/>
 </div>
 
 <div align="center">
