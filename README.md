@@ -59,7 +59,7 @@
 </div>
 
 <br>
-</detail>
+</details>
 
 <div align="center">
   <br> </br>
