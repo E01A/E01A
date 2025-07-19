@@ -54,7 +54,7 @@
 </div>
 <div align="center">
   :eyes: Visitor No. :eyes:<br>
-  <img src="https://ghvc.kabelkultur.se/?username=null-err0r" alt="Visitor Counter" />
+  <img src="https://ghvc.kabelkultur.se/?username=null-err0r&abbreviated=true&color=ff5500" alt="Visitor Counter" />
 </div>
 <div align="center">
   <br><br>
