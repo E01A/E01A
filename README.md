@@ -24,7 +24,7 @@
 </div>
 
 <details align="center">
-<summary> <img src="👉" width ="35"><b> Click For More..!</b> </summary>
+<summary> <img src="" width ="35"><b> Click For More..!</b> </summary>
 <br>
 
 <div align="center">
