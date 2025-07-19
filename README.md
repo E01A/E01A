@@ -24,7 +24,7 @@
 </div>
 
 <details align="center">
-<summary> <b> Click For More..!</b> </summary>
+<summary> <b> Click For More.. </b> </summary>
 <br>
 
 <div align="center">
@@ -65,12 +65,17 @@
   <br> </br>
   <img src="https://ghvc.kabelkultur.se/?username=null-err0r&abbreviated=true&color=ff5500&label=%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%20%F0%9F%91%80%20%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AEVisitor%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%F0%9F%91%80%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE⁮⁮" alt="Visitor Counter" />
 </div>
+<details align="center">
+<summary> <b> Click For Connect </b> </summary>
+<br>
 <div align="center">
   <br><br>
   <a href="https://t.me/NullErr0r" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" />
   </a>
 </div>
+<br>
+</detail>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Banner" />
 </div>
