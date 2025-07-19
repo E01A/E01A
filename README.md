@@ -53,7 +53,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=null-err0r&theme=gruvbox" alt="Activity Graph" />
 </div>
 <div align="center">
-  :👀: Visitor :👀:<br>
+  👁‍🗨 Visitor 👁‍🗨<br>
   <img src="https://ghvc.kabelkultur.se/?username=null-err0r&abbreviated=true&color=ff5500" alt="Visitor Counter" />
 </div>
 <div align="center">
