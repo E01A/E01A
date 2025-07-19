@@ -52,7 +52,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=null-err0r&theme=gruvbox" alt="Activity Graph" />
 </div>
-<div style="display: flex; justify-content: center; width: 100;">
+<div align="center">
   <br> </br>
   <img src="https://ghvc.kabelkultur.se/?username=null-err0r&abbreviated=true&color=ff5500&label=%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%20%F0%9F%91%80%20%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AEVisitor%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%F0%9F%91%80%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE⁮⁮" alt="Visitor Counter" />
 </div>
