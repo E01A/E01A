@@ -64,7 +64,7 @@
 </details>
 
 <details align="center">
-<summary> src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" <b> Click to contact me</b> </summary>
+<summary> " <b> Click to contact me</b> </summary>
 <br>
 <div align="center">
   <br><br>
