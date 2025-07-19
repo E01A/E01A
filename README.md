@@ -65,13 +65,13 @@
 <br>
 </details>
 <details align="center">
-<summary> <b> Click to contact me</b> </summary>
+<summary style="text-align: center;"> <b> Click to contact me</b> </summary>
 <br>
 <div align="center">
-  <br><br>
-  <a href="https://t.me/NullErr0r" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" />
-  </a>
+  <br><br>
+  <a href="https://t.me/NullErr0r" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" />
+  </a>
 </div>
 <br>
 </details>
