@@ -54,7 +54,7 @@
 </div>
 <div align="center">
   <br> </br>
-  <img src="https://ghvc.kabelkultur.se/?username=null-err0r&abbreviated=true&color=ff5500&label=⁮ ⁮⁮ ⁮⁮%20%20%F0%9F%91%80%20⁮ ⁮⁮ ⁮⁮Visitor⁮ ⁮⁮ ⁮⁮%20%F0%9F%91%80⁮ ⁮⁮ ⁮⁮⁮ ⁮⁮ ⁮⁮" alt="Visitor Counter" />
+  <img src="https://ghvc.kabelkultur.se/?username=null-err0r&abbreviated=true&color=ff5500&label=⁮ ⁮⁮ ⁮⁮⁮ ⁮⁮ ⁮⁮Visitor⁮ ⁮⁮ ⁮ ⁮⁮ ⁮⁮⁮ ⁮⁮ ⁮⁮" alt="Visitor Counter" />
 </div>
 <div align="center">
   <br><br>
