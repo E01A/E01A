@@ -65,7 +65,7 @@
 <br>
 </details>
 <details align="center">
-<summary style="text-align: center;"> <b> Click to contact me</b> </summary>
+<summary <b> Click to contact me</b> </summary>
 <br>
 <div align="center">
   <br><br>
