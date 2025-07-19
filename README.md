@@ -57,24 +57,24 @@
     </picture>
   </a>
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=null-err0r&theme=gruvbox" alt="Activity Graph" />
 </div>
-
 <br>
 </details>
+
 <details align="center">
-<summary <b> Click to contact me</b> </summary>
+<summary> align="center" <b> Click to contact me</b> </summary>
 <br>
 <div align="center">
-  <br><br>
-  <a href="https://t.me/NullErr0r" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" />
-  </a>
+  <br><br>
+  <a href="https://t.me/NullErr0r" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" />
+  </a>
 </div>
 <br>
-</details>
+</details> 
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Banner" />
 </div>
